@@ -1,0 +1,10 @@
+
+/.classpath
+/.project
+/ssm-frame.iml
+/ssm-framework.iml
+/out/
+/.settings/
+/.idea/
+/logs/
+/src/main/webapp/WEB-INF/classes/
