@@ -9,6 +9,7 @@
 ### 构建maven工程
 在IntelliJ IDEA中新建maven工程，File/New/Project，选择maven目录，勾选Create from archetype，选择maven-archetype-webapp类型。初次下载依赖jar包可能会耗一些时间。
 ![new-project](img/new-project.png)
+
 工程结构目录如下所示：
 ![project-structure](img/project-structure.png)
 
@@ -684,10 +685,10 @@ IntelliJ 一些主要配置如下图：
 ![appendix-intellij-ps1](img/appendix-intellij-ps1.png)
 ![appendix-intellij-ps2](img/appendix-intellij-ps2.png)
 
-## 使用Web Application Exploded.
+### 使用Web Application Exploded.
 ![appendix-intellij-ps3](img/appendix-intellij-ps3.png)
  
-## webapp 目录内容与WEB-INF属于同级目录
+### webapp 目录内容与WEB-INF属于同级目录
 ![appendix-intellij-ps4](img/appendix-intellij-ps4.png)
 
 - Edit Configurations的配置
