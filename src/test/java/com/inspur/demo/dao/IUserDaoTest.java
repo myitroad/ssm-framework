@@ -30,8 +30,9 @@ public class IUserDaoTest {
     @Test
     public void testInsert() {
         User user = new User();
-        user.setUserName(null);
+        user.setUserName("Xiaoming");
         user.setAge(27);
+        user.setPassword("123");
         userDao.insertUser(user);
     }
 
